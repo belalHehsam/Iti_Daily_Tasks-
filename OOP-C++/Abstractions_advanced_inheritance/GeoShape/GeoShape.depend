@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1763538481 source:b:\iti\oop\lec11\geoshape\main.cpp
+	<iostream>
+	<cmath>
+

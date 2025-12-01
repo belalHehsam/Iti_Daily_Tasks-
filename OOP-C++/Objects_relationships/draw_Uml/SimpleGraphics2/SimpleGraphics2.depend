@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1763300784 source:d:\iti\courses\oop\lab 9\simplegraphics2\main.cpp
+	"SimpleGraphics.h"
+	<iostream>
+
+1763299497 d:\iti\courses\oop\lab 9\simplegraphics2\simplegraphics.h
+
+1763299860 source:d:\iti\courses\oop\lab 9\simplegraphics2\simplegraphics.cpp
+	"SimpleGraphics.h"
+	<iostream>
+	<cmath>
+	<cstring>
+
+1763365645 source:b:\iti\oop\lec9\new folder\day9\simplegraphics2\simplegraphics.cpp
+	"SimpleGraphics.h"
+	<iostream>
+	<cmath>
+	<cstring>
+
+1763377535 b:\iti\oop\lec9\new folder\day9\simplegraphics2\simplegraphics.h
+
+1763365010 source:b:\iti\oop\lec9\new folder\day9\simplegraphics2\main.cpp
+	"SimpleGraphics.h"
+	<iostream>
+
